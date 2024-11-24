@@ -1,0 +1,47 @@
+body
+{
+    background-color:rgb(136, 54, 54);
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+form
+{
+    width: 50%;
+    background-color: rgb(71, 135, 135);
+    margin: auto;
+    padding: 10px;
+}
+
+input{
+    padding-bottom: 10px;
+    border: 2px solid blue;
+}
+
+input[type=submit]
+{
+    
+    background-color: rgb(145, 205, 205);
+    color: blue;
+}
+
+tr
+{
+
+}
+table{
+    background-color: antiquewhite;
+    margin: auto;
+    
+}
+
+td{
+    padding: 10px;
+}
